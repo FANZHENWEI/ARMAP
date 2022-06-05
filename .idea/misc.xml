@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/82067.DESKTOP-4UF7KHV/AndroidStudioProjects/MyApplication22/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/82067.DESKTOP-4UF7KHV/AndroidStudioProjects/MyApplication22/app/src/main/res/layout/activity_main2.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/82067.DESKTOP-4UF7KHV/AndroidStudioProjects/MyApplication22/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Users/Administrator/Desktop/新建文件夹 (47)/MyApplication22/app/src/main/res/layout/activity_login.xml" value="0.2056159420289855" />
+        <entry key="..\:/Users/Administrator/Desktop/新建文件夹 (47)/MyApplication22/app/src/main/res/layout/activity_main2.xml" value="0.2056159420289855" />
+        <entry key="..\:/Users/Administrator/Desktop/新建文件夹 (47)/MyApplication22/app/src/main/res/layout/activity_register.xml" value="0.2056159420289855" />
+        <entry key="..\:/Users/Administrator/Desktop/新建文件夹 (47)/MyApplication22/app/src/main/res/menu/edit.xml" value="0.3489583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
